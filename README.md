@@ -4,7 +4,7 @@ Aplicação de Gestão de Tarefas em React JS alimentada por uma API REST em DJA
 ## Referência
 
  - [React](https://react.dev/reference/react) 
-
+ - [Api Rest](https://github.com/maxsonferovante/ToDoDjangoRestApi)
 ## Funcionalidades
 
 - Adição de Tarefas
